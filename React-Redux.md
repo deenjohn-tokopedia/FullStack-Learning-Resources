@@ -586,6 +586,9 @@ https://levelup.gitconnected.com/react-native-redux-implementing-redux-saga-for-
  
  https://www.robinwieruch.de/react-testing-tutorial/
     
+ ## design patterns
+  
+  https://www.patterns.dev/
     
  ### Extras  
  
